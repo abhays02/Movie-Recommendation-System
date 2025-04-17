@@ -19,7 +19,7 @@ Recommender systems are powerful techniques widely used to suggest items or prod
 ## 🖼️ Visual Overview
 
 ### Sample Data Insights
-![Sample Graph](<image-path>)  
+![Sample Graph](</image.jpg>)  
 *Example: Distribution of movie ratings.*
 
 ### Recommendation Flow
